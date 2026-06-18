@@ -111,7 +111,7 @@ July 2024 – May 2028
 
 ## 💼 Featured Projects
 
-### 💰 [E-Wallet Microservices Application]([ADD LINK])
+### 💰 [E-Wallet Microservices Application]
 A distributed digital wallet platform built with 4 independent Spring Boot microservices, supporting account creation, peer-to-peer transfers, and real-time notifications.
 
 **Tech Stack:** `Java` `Spring Boot` `Apache Kafka` `Redis` `MySQL` `Spring Security`
@@ -126,7 +126,7 @@ A distributed digital wallet platform built with 4 independent Spring Boot micro
 
 <br>
 
-### 📈 [DSA Stock Exchange Market]([ADD LINK])
+### 📈 [DSA Stock Exchange Market]
 A console-based stock exchange matching engine built from scratch using custom data structures — no external libraries, just core algorithmic design.
 
 **Tech Stack:** `Java` `Data Structures & Algorithms`
@@ -140,7 +140,7 @@ A console-based stock exchange matching engine built from scratch using custom d
 
 <br>
 
-### 🎓 [UniPortal – University Web Portal]([ADD LINK])
+### 🎓 [UniPortal – University Web Portal]
 A full-stack university enrollment management portal built with Django, streamlining the application and review process for students and admins.
 
 **Tech Stack:** `Python` `Django` `Bootstrap` `SQLite`
@@ -155,7 +155,7 @@ A full-stack university enrollment management portal built with Django, streamli
 
 <br>
 
-### 📚 [Digital Library Management System]([ADD LINK])
+### 📚 [Digital Library Management System]
 A Spring Boot backend automating library operations — from book issuance to fine calculation — with a performance-focused caching layer.
 
 **Tech Stack:** `Java` `Spring Boot` `Redis` `MySQL` `Spring Security`
@@ -169,7 +169,7 @@ A Spring Boot backend automating library operations — from book issuance to fi
 
 <br>
 
-### 🗓️ [College Time Table Management System]([ADD LINK])
+### 🗓️ [College Time Table Management System]
 A role-based desktop GUI application for managing class schedules, cancellations, and time-slot swaps across admins, teachers, and students.
 
 **Tech Stack:** `Python` `Tkinter`

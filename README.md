@@ -16,14 +16,6 @@
 
 I'm a 3rd-year B.Tech Computer Science student at **Amrita Vishwa Vidyapeetham**, passionate about full-stack development, distributed systems, and data structures & algorithms. I enjoy building projects that go beyond tutorials — from event-driven microservices to custom-built data structures powering a stock exchange simulation.
 
-- 🔭 Currently building full-stack web applications and exploring microservices architecture
-- 🌱 Strengthening my foundations in Data Structures & Algorithms, Operating Systems, and System Design
-- 🧩 Comfortable across the **MERN**, **Django**, and **Spring Boot** ecosystems
-- 📝 Published research on socioeconomic impacts of water scarcity (linked below)
-- 🤝 Active community volunteer with the **National Service Scheme (NSS)**
-- 💬 Ask me about Java, Spring Boot, React, or system design for beginners
-- ⚡ Fun fact: I like designing systems before I write a single line of code
-
 ---
 
 ## 🎓 Education
@@ -199,12 +191,7 @@ Conducted a Participatory Rural Appraisal (PRA)-based field study in Kolundurai 
 
 ---
 
-## 🤝 Leadership & Activities
 
-**National Service Scheme (NSS)** | Amrita Vishwa Vidyapeetham
-Active volunteer in community outreach including eye check-up camps, blood donation drives, and public wall painting campaigns.
-
----
 
 ## 📊 GitHub Statistics
 
@@ -224,7 +211,7 @@ Active volunteer in community outreach including eye check-up camps, blood donat
 
 ## 🌱 Current Learning Focus
 
-- Advanced Data Structures & Algorithms for technical interviews (FAANG, product companies, startups)
+- Data Structures & Algorithms for technical interviews (FAANG, product companies, startups)
 - Deepening backend system design and microservices patterns
 - Exploring AI-assisted development workflows and tooling
 

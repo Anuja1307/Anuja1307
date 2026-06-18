@@ -6,8 +6,7 @@
 
 [![Email](https://img.shields.io/badge/Email-anujars541%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anujars541@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Anuja1307-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Anuja1307)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([ADD LINK])
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel&logoColor=white)]([ADD PORTFOLIO])
+
 
 </div>
 

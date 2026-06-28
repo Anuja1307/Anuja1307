@@ -2,7 +2,7 @@
 
 # Hi there, I'm Anuja RS 👋
 
-### Aspiring Full-Stack Developer | B.Tech CSE Student | Building across MERN, Django & Spring Boot
+### Aspiring Full-Stack Developer | B.Tech CSE Student | Building across MERN,AI & Spring Boot
 
 [![Email](https://img.shields.io/badge/Email-anujars541%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anujars541@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Anuja1307-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Anuja1307)
